@@ -1,2 +1,2 @@
 # My_Repository
-My first repository 
+You can find my example of API tests with pets in this repository 
